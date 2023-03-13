@@ -6,15 +6,15 @@
 #define Relay1            2
 #define Relay2            14
 
-#define WLAN_SSID       "circuiTician"
-#define WLAN_PASS       "Pneucis@202028"
+#define WLAN_SSID       "**************"
+#define WLAN_PASS       "**************"
 
 // Adafruit.io Setup 
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "SBHB"
-#define AIO_KEY         "aio_mzfm11ZC6qykrmScSxmua4uBnwtk"
+#define AIO_USERNAME    "**************"
+#define AIO_KEY         "**************"
 
 
 WiFiClient client;
